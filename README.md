@@ -11,6 +11,6 @@ A Python implementation of Finite Element Method for solving 2D heat equation wi
 
 ## Installation
 ```bash
-git clone https://github.com/yourusername/FEM-Heat-Solver.git
+git clone https://github.com/devarshnotess/FEM-Heat-Solver.git
 cd FEM-Heat-Solver
 pip install -r requirements.txt
